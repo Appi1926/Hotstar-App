@@ -26,6 +26,7 @@
             <li class="nav-items"><a href="#">   good</a></li>
             <li class="nav-items"><a href="#">Premium</a></li>
             <li class="nav-items"><a href="#">Disney+</a></li>
+            <li class="nav-items"><a href="#">Gouri's Site</a></li>
             <li class="icon"><a href="#"></a></li>
         </ul>
 
